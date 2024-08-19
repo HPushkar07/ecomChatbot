@@ -5,3 +5,5 @@ datasets
 pypdf
 python-dotenv
 flask
+
+-e .
